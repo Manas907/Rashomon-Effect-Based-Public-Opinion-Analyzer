@@ -1,0 +1,6 @@
+Id,Reviewer,ReviewText,Perspective,Sentiment,BiasCategory
+1,Alice,"the product quality is excellent",Corporate,Positive,Corporate Bias
+2,Bob,"i had a terrible experience with customer service",Customer,Negative,Personal Bias
+3,Charlie,"the pricing is fair considering the features",Analyst,Positive,Analytical Bias
+4,Dave,"they care more about profits than customers",Critic,Negative,Critical Bias
+5,Eve,"this company is innovating in the right direction",Investor,Positive,Investor Bias
