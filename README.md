@@ -1,6 +1,6 @@
 # Public Opinion Analyzer Using the Rashomon Effect  
 
-![Rashomon](assets/rashomon.jpg)
+![Rashomon](assets/Rashomon.jpg)
 
 
 ## Overview  
