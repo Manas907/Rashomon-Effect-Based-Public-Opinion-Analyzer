@@ -1,6 +1,6 @@
 # Public Opinion Analyzer Using the Rashomon Effect  
 
-![Rashomon](https://upload.wikimedia.org/wikipedia/commons/9/9e/Rashomon_poster.jpg)  
+![Rashomon](assets/Rashomon.jpg)  
 
 ## Overview  
 Inspired by Akira Kurosawa’s legendary film *Rashomon*, this project reimagines sentiment analysis by incorporating multiple perspectives. Unlike conventional models that classify opinions as simply positive, negative, or neutral, this system explores varying interpretations within the same dataset. By applying the **Rashomon Effect**, businesses can better understand complex customer feedback and uncover hidden insights.  
